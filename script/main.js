@@ -1,4 +1,4 @@
-fetch("https://github.com/w3Typer/folk-dances/data/folklore_dances.json")
+fetch("data/folklore_dances.json")
   .then((response) => response.json())
   .then((data) => createPage(data))
   .catch((err) => console.error(err));
