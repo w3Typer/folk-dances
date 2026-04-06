@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="bg">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./assets/images/drum.png" type="image/png" />
+    <!--  За да се показва фавикон като картинка на шорткъта на екрана на iOS устройство! -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="./assets/images/drum.png"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Dirt&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <title>Показаните ни хорá</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>
+        <!-- Заглавие на сайта -->
+        <span class="header">„Розова група“</span> <br />
+        на школа по бълг. <br />
+        нар. хора́ <span class="header">„Еремия“</span> <br />
+        с танцов ръков. <span class="header">Ани</span><br />
+      </h1>
+    </header>
+
+    <main>
+      <!-- Основно послание на сайта -->
+      <h2 id="main-message"></h2>
+
+      <!-- Контейнер за данните на танците и линкове към медията и информацията -->
+      <div id="dances-container"></div>
+
+      <!-- Контейнер за възпроизвежданото аудио -->
+      <div id="audio-box" class="box">
+        <h3 id="name"></h3>
+        <h4>Налични песни/мелодии за избор:</h4>
+        <div id="audios-to-choose"></div>
+        <div id="audio-controls">
+          <button
+            id="volume-down-button"
+            class="box-audio-buttons"
+            onclick="volumeDown()"
+          >
+            🔉
+          </button>
+
+          <button
+            id="start-audio-button"
+            class="box-audio-buttons"
+            onclick="startAudio()"
+          >
+            ▶
+          </button>
+
+          <button
+            id="pause-audio-button"
+            class="box-audio-buttons"
+            onclick="pauseAudio()"
+          >
+            ⏸
+          </button>
+
+          <button
+            id="stop-audio-button"
+            class="box-audio-buttons"
+            onclick="stopAudio()"
+          >
+            ⏹
+          </button>
+
+          <button
+            id="volume-up-button"
+            class="box-audio-buttons"
+            onclick="volumeUp()"
+          >
+            🔊
+          </button>
+        </div>
+        <button class="close-button" onclick="closeAudioBox()">Затвори</button>
+      </div>
+
+      <!-- Контейнер за текстовата информация -->
+      <div id="info-box" class="box">
+        <h3 id="info-name"></h3>
+        <h4>Регион</h4>
+        <p id="info-region"></p>
+        <h4>Тактов размер</h4>
+        <p id="info-measure"></p>
+        <h4 id="origin">Произход</h4>
+        <p id="info-origin"></p>
+        <h4 id="characteristics">Характеристики</h4>
+        <p id="info-characteristics"></p>
+        <h4 id="dancers">Изпълнители</h4>
+        <p id="info-dancers"></p>
+        <h4 id="forms-and-rotation">
+          Форми/фигури на танца и начин на редуване
+        </h4>
+        <p id="info-forms-and-rotation"></p>
+        <h4 id="body-orientation-direction-legs-moves">
+          Ориентация, посоки движение на тялото и движения на краката
+        </h4>
+        <p id="info-body-orientation-direction-legs-moves"></p>
+        <h4 id="hands-position-and-moves">Движения на ръцете</h4>
+        <p id="info-hands-position-and-moves"></p>
+        <h4 id="shouts">Викания</h4>
+        <p id="info-shouts"></p>
+        <h4 id="sources">Източници</h4>
+        <p id="info-sources"></p>
+        <button class="close-button" onclick="closeInfoBox()">Затвори</button>
+      </div>
+    </main>
+
+    <footer>
+      <p>© 2025 All rights reserved.</p>
+    </footer>
+
+    <script src="./script/main.js"></script>
+  </body>
+</html>

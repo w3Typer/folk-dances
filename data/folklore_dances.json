@@ -1,0 +1,629 @@
+{
+  "2025": [
+    {
+      "number": 1,
+      "name": "Право хоро",
+      "region": "Правото хоро е популярно народно хоро, което се играе в цялата страна, но е характерно предимно за Тракийската фолклорна област. ",
+      "measure": "Равноделен (2/4).",
+      "origin": "Преди се е играело често в права и дълга редица с начало и край, които не се виждат. Оттук идва и наименованието му – Право хоро.",
+      "characteristics": "Правото хоро е едно от най-популярните български народни хора. Характеризира се с умерен темп и сравнително прости, но ритмични движения на краката. Играе се с постоянно темпо, което позволява участието на хора от всички възрасти. Повечето от хороводните стъпки са люлеещи се, което причислява хорото към типа на люлеещите се народни хора. Стъпките допринасят за общия вид, стил и характер на цялото хоро. Изпълняват се умерено и плавно, без особени подскачания. Може да се играе в различни форми – в затворен или отворен кръг, в права редица и витообразно (криво, змиеобразно). Изпълнява се при съпровод на много известни хороводни мелодии.",
+      "dancers": "В миналото хорото се е играело смесено от мъже и жени, които се нареждат един до друг и се залавят за ръцете с длани една към друга. Понякога мъжете и жените се залавят отделно и играят в мъжко и женско хоро.",
+      "forms_and_rotation": "Хорото има една основна форма.",
+      "body_orientation_direction_legs_moves": "Основните стъпки са насочени главно надясно. Има 6 хороводни стъпки. Брои се „раз-два“. Бройките на такта са две, и то равни помежду си, като всяка бройка съответства на 1/4 нота от един такт на мелодията. За да е по-лесно, хороводните стъпки на цялото хоро се разделят на две части. Първата част е съставена от хороводни стъпки, с които хорото се движи по посока на дясно. В тази част има две (една двойна) хороводни стъпки, изпълнявани за един такт от мелодията по следния начин: на раз – с десния крак странична крачка вдясно; тежестта на тялото е на десния крак. В същия момент левият крак се повдига малко от земята, тялото е обърнато полунадясно, погледът – напред; на два – кръстосана стъпка вдясно с левия крак пред десния; тежестта на тялото е на левия крак; в същия момент десният крак се повдига от земята; тялото е изправено и обърнато полунадясно; погледът – напред. Втората част е съставена от хороводни стъпки, с които хорото се движи на едно и също място. В тази част има четири (две двойни) хороводни стъпки, изпълнявани за два такта от мелодията по следния начин: Във втори такт на мелодията: на раз – с десния крак крачка вдясно; на два – левият крак, изправен и обтегнат, се повдига леко напред и нагоре, кръстосан полунадясно пред десния (люлейна стъпка); тежестта на тялото е на десния крак; тялото е изправено и обърнато полунадясно; погледът – напред. В трети такт на мелодията: на раз – с левия крак крачка вляво; на два – във втората половина на същия такт – десният крак, изправен и обтегнат, се повдига леко напред и нагоре, кръстосан полуналяво пред левия (люлейна стъпка); тежестта на тялото е на левия крак; тялото е изправено и обърнато полуналяво; погледът – напред. Казано по друг начин, Правото хоро е съставено от обикновена стъпка, стъпка с прибиране и две двойни люлейни хороводни стъпки вдясно и вляво. Характерното в това хоро са люлейните стъпки, които се изпълняват на място ту вдясно, ту вляво. Едновременно с тези стъпки и ръцете се повдигат обтегнати по посока на повдигнатия крак.",
+      "hands_position_and_moves": "Ръцете на всички изпълнители по време на играта се държат или свити в лактите, или обтегнати и спуснати ниско-долу, или заловени за раменете един на друг.",
+      "shouts": "",
+      "sources": "https://taratanci.com/",
+      "audio_files": [
+        "PravoHoro(IlkaAleksandrova).mp3",
+        "PravoHoro(Petyr-RumianaDumashe-ToniDacheva).mp3",
+        "PravoHoro(Stano_Stano-Emilia).mp3",
+        "PravoHoro(KakoNikolinke-Nelina).mp3"
+      ],
+      "audio_names": [
+        "Право хоро в изпълнение на Илка Александрова",
+        "„Петър Румяна думаше“ - Тони Дачева",
+        "„Стано Стано“ - Емилия",
+        "„Како Николинке“ - Нелина"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=Wpncg8mHNCU"
+    },
+
+    {
+      "number": 2,
+      "name": "Сворнато хоро (II форма)",
+      "region": "Родопска фолклорна област",
+      "measure": "Неравноделен (9/8).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["SvornatoHoro(BelovidovoHoro).mp3"],
+      "audio_names": ["Сворнато хоро (Беловидово хоро)"],
+      "video_url": "https://www.youtube.com/watch?v=nlQfJJ19l9k&list=RDnlQfJJ19l9k&start_radio=1"
+    },
+
+    {
+      "number": 3,
+      "name": "Ширто",
+      "region": "Югозападна България",
+      "measure": "Неравноделен (7/8), с първи удължен дял.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "Shirto.mp3",
+        "Shirto(AkoUmramIlZaginam-NikolaySlaveev).mp3",
+        "Shirto(LilianoMome-Valia).mp3",
+        "Shirto(OhridskotoEzero-Valia).mp3",
+        "Shirto(RodovataSila-Tsvetelina).mp3",
+        "Shirto(TsyfnaloTsvekeShareno-Ashley).mp3",
+        "Shirto(KadeIDaOdish-Gloria).mp3",
+        "Shirto(AleniZvezdi-Nelina).mp3",
+        "Shirto(SharPlanina-NikolaySlaveev).mp3",
+        "Shirto(ImalaMayka-Nelina).mp3"
+      ],
+      "audio_names": [
+        "Ширто",
+        "„Ако умрам ил загинам“ - Николай Славеев",
+        "„Лиляно моме“ - Валя",
+        "„Охридското езеро“ - Валя",
+        "„Родовата сила“ - Цветелина",
+        "„Цъфнало цвеке шарено“ - Ашли",
+        "„Къде и да одиш“ - Глория",
+        "„Алени звезди“ - Нелина",
+        "„Шар планина“ - Николай Славеев",
+        "„Имала майка“ - Нелина"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=U_1s4wdpY3s&list=RDU_1s4wdpY3s&start_radio=1"
+    },
+
+    {
+      "number": 4,
+      "name": "Ръ́ка",
+      "region": "Добруджанска фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["Ryka.mp3"],
+      "audio_names": ["Ръ́ка хоро"],
+      "video_url": "https://www.youtube.com/watch?v=A2xAuRAjU4A"
+    },
+
+    {
+      "number": 5,
+      "name": "Чичовото хоро (I форма)",
+      "region": "Северняшка фолклорна област, Северозападна България",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["Chichovoto.mp3"],
+      "audio_names": ["Чичовото хоро"],
+      "video_url": "https://www.youtube.com/watch?v=KqgnvL80Zyg"
+    },
+
+    {
+      "number": 6,
+      "name": "Дунавско хоро",
+      "region": "Северняшка фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "DunavskoHoro(instrumental).mp3",
+        "DunavskoHoro(Tsvetelina).mp3"
+      ],
+      "audio_names": [
+        "Дунавско хоро - инструментал",
+        "Дунавско хоро в изпълнение на Цветелина"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=52EryGrhrhc"
+    },
+
+    {
+      "number": 7,
+      "name": "Самоковско хоро",
+      "region": "Шопска фолклорна област",
+      "measure": "Неравноделен (9/8).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "SamokovskoHoro.mp3",
+        "SamokovskoHoro(CvetiniteOchi-NikolinaChakyrdykova).mp3",
+        "SamokovskoHoro(MominaSylza-SlavkaKalcheva).mp3"
+      ],
+      "audio_names": [
+        "Самоковско хоро",
+        "„Цветините очи“ - Николина Чакърдъкова",
+        "„Момина сълза“ - Славка Калчева"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=Ad8USSjuCiA&list=RDAd8USSjuCiA&start_radio=1"
+    },
+
+    {
+      "number": 8,
+      "name": "Арап хоро (без и с въртене)",
+      "region": "Пиринска фолклорна област",
+      "measure": "Равноделен (2/4). Понякога се среща и като 4/4.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["ArapHoro(NevenoMome).mp3"],
+      "audio_names": ["Арап хоро - „Невено моме“"],
+      "video_url": "https://www.youtube.com/watch?v=Gz92r17wM2o&list=RDGz92r17wM2o&start_radio=1"
+    },
+
+    {
+      "number": 9,
+      "name": "Сиртаки (I и II форма)",
+      "region": "Гръцки танц",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "Sirtaki(Barbayani).mp3",
+        "Sirtaki(NaHareis-NotisSfakianakis).mp3"
+      ],
+      "audio_names": ["„Барбаяни“", "„На хари́с“ - Нотис Сфакианакис"],
+      "video_url": "https://www.youtube.com/watch?v=C7WFLOFIn2E&list=RDC7WFLOFIn2E&start_radio=1"
+    },
+
+    {
+      "number": 10,
+      "name": "Гинка (I форма)",
+      "region": "Пиринска фолклорна област",
+      "measure": "Неравноделен (7/8), с първи дълъг дял. Характеризира се с броене „раззз-два-три“ (акцент на първия дял).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "Ginka(SitnoSeHoroVieshe-NikolinaChakyrdykova).mp3",
+        "Ginka(MelnishkaMoma-RadostinaPanyova).mp3"
+      ],
+      "audio_names": [
+        "„Ситно се хоро виеше“ - Николина Чакърдъкова",
+        "„Мелнишка мома“ - Радостина Паньова"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=HvVauhDPWZs&list=PLpbZm2HfD1dLvdxSXRM6-_tpAyIPSTlEg"
+    },
+
+    {
+      "number": 11,
+      "name": "Право тракийско хоро",
+      "region": "Тракийска фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "PravoTrakijskoHoro(Instrumental).mp3",
+        "PravoTrakijskoHoro(Haide-Kalino-da-idem_R.PEYCHEVA&N.SLAVEEV).mp3"
+      ],
+      "audio_names": [
+        "Право тракийско хоро - инструментал",
+        "„Хайде Калино да идем“ - Росица Пейчева и Николай Славеев"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=tBGS2UuNPho"
+    },
+
+    {
+      "number": 12,
+      "name": "Дайчово хоро",
+      "region": "Северняшка фолклорна област",
+      "measure": "Неравноделен (9/8), който често се усеща като четириделен, с удължен четвърти дял (2+2+2+3). Един такт се брои „раз-два-три-четири“.",
+      "origin": "Името често се свързва с легендарния Дойчин войвода. Определя се като „юнашко“ и буйно. Вековна легенда разказва, че войводата бил заловен от турци, които искали да го обесят. Преди да поеме към бесилото, Дойчин получил правото на последно предсмъртно желание. „Искам да потанцувам“, заявил осъденият на смърт и започнал да играе хоро. Когато агата видял как танцува, се омаял и го пуснал. Историята бързо се разнесла от уста на уста и танцът започнал да се нарича Дайчово хоро.",
+      "characteristics": "Играе се с прескоци/високо вдигане на краката, което му придава динамика.",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "Изходно положение на тялото - по посока на движението надясно. Първите два такта се започва с основно дайчово, придвижвайки се в кръг. ПЪРВИ ТАКТ - на „раз“ подскок на левия крак, десният се свива в коляното. На „два“ прескок с десен крак напред. На „три“ прескок с левия крак напред. И на „четири“ прескок с десен крак напред. ВТОРИ ТАКТ - на „раз“ подскок на десния крак напред, а на „два“ - прескок с левия крак напред. На „три“ прескок с десния крак напред, на „четири“ прескок с левия крак напред. ТРЕТИ ТАКТ - на „раз“ подскок на левия крак и тялото се обръща към центъра на кръга. На „два“ прескок с десния крак вдясно, на „три“ прескок с левия крак пред десния и на „четири“ прескок на десния крак зад левия. ЧЕТВЪРТИ ТАКТ - на „раз“ подскок на десния крак на място, на „два“ прескок на левия крак вляво, на „три“ прескок на десния пред левия и на „четири“ прескок на левия крак зад десния. ПЕТИ ТАКТ - на „раз“ стьпка с десния крак вдясно, на „два“ стьпка с левия до десния, на „три“ прескок с десния крак пред левия и на „четири“ прескок с левия крак зад десния. ШЕСТИ ТАКТ - като ТРЕТИ ТАКТ. СЕДМИ ТАКТ - като ЧЕТВЪРТИ ТАКТ.",
+      "hands_position_and_moves": "Ръцете изпълняват „люш“ напред-назад в такт с музиката през цялото време.",
+      "shouts": "",
+      "sources": "https://www.bgdnes.bg/",
+      "audio_files": [
+        "DaichovoHoro(DikoIliev).mp3",
+        "DaichovoHoro(OrkestyrVarnentsi).mp3",
+        "DaichovoHoro(OrkestyrZdravets).mp3",
+        "DaichovoHoro(Kitka-AnaBorisova).mp3",
+        "DaichovoHoro(PetyrLiubchev&PanaiotStoichev).mp3",
+        "DaichovoHoro(Bilka-DikoIliev).mp3",
+        "DaichovoHoro(AbreDiadoKostadine).mp3",
+        "DaichovoHoro(DyshteMila-Cvetelina&TediSlavova).mp3",
+        "DaichovoHoro(RumaMoma-JinaStoeva).mp3"
+      ],
+      "audio_names": [
+        "Дайчово хоро в изпълнение на Дико Илиев",
+        "Дайчово хоро в изпълнение на оркестър „Варненци“",
+        "Дайчово хоро в изпълнение на оркестър „Здравец“",
+        "„Китка“ - Ана Борисова",
+        "Дайчово хоро в изпълнение на Петър Любчев и Панайот Стойчев",
+        "„Билка“ - Дико Илиев",
+        "„А бре, дядо Костадине“",
+        "„Дъще мила“ - Цветелина и Теди Славова",
+        "„Рума мома“ - Джина Стоева"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=hx8omyfwlcA&list=RDhx8omyfwlcA&start_radio=1"
+    },
+
+    {
+      "number": 13,
+      "name": "Карамфилчето",
+      "region": "",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["Karamfilcheto.mp3"],
+      "audio_names": ["Карамфилчето"],
+      "video_url": ""
+    },
+
+    {
+      "number": 14,
+      "name": "Еленино хоро",
+      "region": "Северняшка фолклорна област",
+      "measure": "Неравноделен (13/16). Ритъмът се усеща като 6-делен с удължен шести дял (2+2+2+2+2+3), често броен като „раз-два-три-четири-пет-шееест“.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "EleninoHoro(ElenoMome-Rayna).mp3",
+        "EleninoHoro(ElenoMome-Tsvetelina).mp3",
+        "EleninoHoro(NikolaiSlaveev).mp3"
+      ],
+      "audio_names": [
+        "„Елено моме“ - Райна",
+        "„Елено моме“ - Цветелина",
+        "Еленино хоро в изпълнение на Николай Славеев"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=nKQSuYUG5Sc&list=RDnKQSuYUG5Sc&start_radio=1"
+    },
+
+    {
+      "number": 15,
+      "name": "Селско шопско хоро",
+      "region": "Шопска фолклорна област",
+      "measure": "Равноделен, двувременен тактов размер (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["SelskoShopskoHoro.mp3"],
+      "audio_names": ["Селско шопско хоро"],
+      "video_url": ""
+    },
+
+    {
+      "number": 16,
+      "name": "Граовско хоро",
+      "region": "Шопска фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "GraovskoHoro(instrumental1).mp3",
+        "GraovskoHoro(instrumental2).mp3"
+      ],
+      "audio_names": [
+        "Граовско хоро - инструментал 1",
+        "Граовско хоро - инструментал 2"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=_JaJR2qVoX4"
+    }
+  ],
+
+  "2026": [
+    {
+      "number": 17,
+      "name": "Боалийско хоро",
+      "region": "Тракийска фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "year": 2026,
+      "audio_files": ["BoalijskoHoro(DiadoviteDobreviPetSnahi-Nelina).mp3"],
+      "audio_names": ["„Дядовите Добреви пет снахи“ - Нелина"],
+      "video_url": "https://www.youtube.com/watch?v=yEWs_Ypd6n0&list=RDyEWs_Ypd6n0&start_radio=1"
+    },
+
+    {
+      "number": 18,
+      "name": "Малешевско хоро (по-лесна форма)",
+      "region": "Пиринска фолклорна област",
+      "measure": "Основен тактов размер 2/4. Понякога се среща и в размер 7/8, с първи дълъг дял.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "MaleshevskoHoro(Instrumental).mp3",
+        "MaleshevskoHoro-OgrajdenskaChetvorka(SharenaGaidaIzpisana).mp3",
+        "MaleshevskoHoro(SharenaGaida-NikolaiSlaveev).mp3"
+      ],
+      "audio_names": [
+        "Малешевско хоро - инструментал",
+        "„Шарена гайда изписана“",
+        "„Шарена гайда“ - Николай Славеев"
+      ],
+      "video_url": ""
+    },
+
+    {
+      "number": 19,
+      "name": "Шúра хоро",
+      "region": "Северняшка фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["ShiraHoro(instrumental).mp3"],
+      "audio_names": ["Шúра хоро - инструментал"],
+      "video_url": "https://www.youtube.com/watch?v=9jRXJBrSqLc&list=RD9jRXJBrSqLc&start_radio=1"
+    },
+
+    {
+      "number": 20,
+      "name": "Каракачанско хоро",
+      "region": "Родопска фолклорна област",
+      "measure": "Обикновено се изпълнява в тактов размер 2/4.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["KarakachanskoHoro.mp3"],
+      "audio_names": ["Каракачанско хоро"],
+      "video_url": "https://www.youtube.com/watch?v=o8erPVOmIVA"
+    },
+
+    {
+      "number": 21,
+      "name": "Вла́ня (Влашко хоро)",
+      "region": "Северняшка фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["Vlania(VlashkoHoro).mp3"],
+      "audio_names": ["Вланя (Влашко хоро)"],
+      "video_url": "https://www.youtube.com/watch?v=dODfT0htZns&list=RDdODfT0htZns&start_radio=1"
+    },
+
+    {
+      "number": 22,
+      "name": "Малешевско хоро (по-трудна форма)",
+      "region": "Пиринска фолклорна област",
+      "measure": "Основен тактов размер 2/4. Понякога се среща и в размер 7/8, с първи дълъг дял.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "MaleshevskoHoro(Instrumental).mp3",
+        "MaleshevskoHoro-OgrajdenskaChetvorka(SharenaGaidaIzpisana).mp3",
+        "MaleshevskoHoro(SharenaGaida-NikolaiSlaveev).mp3"
+      ],
+      "audio_names": [
+        "Малешевско хоро - инструментал",
+        "„Шарена гайда изписана“",
+        "„Шарена гайда“ - Николай Славеев"
+      ],
+      "video_url": ""
+    },
+
+    {
+      "number": 23,
+      "name": "Сворнато хоро (I форма)",
+      "region": "Родопска фолклорна област",
+      "measure": "Неравноделен (9/8).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["SvornatoHoro(BelovidovoHoro).mp3"],
+      "audio_names": ["Сворнато хоро (Беловидово хоро)"],
+      "video_url": "https://www.youtube.com/watch?v=nlQfJJ19l9k&list=RDnlQfJJ19l9k&start_radio=1"
+    },
+
+    {
+      "number": 24,
+      "name": "Арканул хоро",
+      "region": "Северняшка фолклорна област",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["ArkanulHoro.mp3"],
+      "audio_names": ["Арканул хоро"],
+      "video_url": "https://www.youtube.com/watch?v=-6pSP8cMcmI&list=RD-6pSP8cMcmI&start_radio=1"
+    },
+
+    {
+      "number": 25,
+      "name": "Сатовчанско хоро",
+      "region": "Пиринска фолклорна област",
+      "measure": "Неравноделен тактов размер 7/8, с удължено трето време.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["SatovchanskoHoro(IbroLolov).mp3"],
+      "audio_names": ["Сатовчанско хоро в изпълнение на Ибро Лалов"],
+      "video_url": "https://www.youtube.com/watch?v=rH0fvji6L-4&list=RDrH0fvji6L-4&start_radio=1"
+    },
+
+    {
+      "number": 26,
+      "name": "Чача́к хоро",
+      "region": "Сръбско хоро",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "ChachakHoro(Instrumental).mp3",
+        "ChachakHoro(JojRadoBelaRado-DraganDjordjevicPuskar).mp3"
+      ],
+      "audio_names": [
+        "Чачак хоро - инструментал",
+        "„Йой Радо, бела Радо“ - Драган Джорджевич Пускар"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=wjtvTZi-l_U&list=RDwjtvTZi-l_U&start_radio=1"
+    },
+
+    {
+      "number": 27,
+      "name": "Абдай хоро (I форма)",
+      "region": "Северняшка фолклорна област",
+      "measure": "Най-често се играе в смесен тактов размер 9/8, с бърза трета част: (2+2+2+3). Срещат се и варианти, описвани в размер 9/16, което е характерно за много от „надутите“ или по-бързи северняшки хора с набивания.",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["AbdaiHoro.mp3"],
+      "audio_names": ["Абдай хоро"],
+      "video_url": "https://www.youtube.com/watch?v=kOqJpULVGKA&list=RDkOqJpULVGKA&start_radio=1"
+    },
+
+    {
+      "number": 28,
+      "name": "Гайда авасú",
+      "region": "Пиринска фолклорна област (от Петричкия край).",
+      "measure": "Равноделен (2/4).",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": [
+        "GaidaAvasi(Instrumental-AkademichenNarodenOrkestyr).mp3"
+      ],
+      "audio_names": ["Гайда авасú - Академичен народен оркестър"],
+      "video_url": "https://youtu.be/lghEGNzrxEk?si=JsTCLAx2q8zH6PM0"
+    }
+  ]
+}

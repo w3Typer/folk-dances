@@ -1,0 +1,233 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("../assets/images/dancersWithoutBackgroundFFB3C1.png");
+  background-size: 35%;
+  background-position: center calc(50% + 80px); /* За прецизно позициониране на картинката по вертикалата */
+  background-repeat: no-repeat;
+  background-attachment: scroll; /* Препоръчана поправка за iOS */
+  background-color: #fff0f3;
+  z-index: -1;
+}
+
+body {
+  padding: 10px;
+}
+
+header {
+  padding: 10px;
+  font-family: "Rubik Dirt", Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: #fff0f3;
+  text-align: center;
+  background-color: #c34166;
+  border-radius: 10px;
+}
+
+span.header {
+  text-transform: uppercase;
+  color: #ffccd5;
+}
+
+h4 {
+  margin-top: 6px;
+}
+
+.num-of-audios {
+  margin-left: 10px;
+}
+
+main {
+  margin: 10px auto 0;
+}
+
+#main-message {
+  font-family: "pacifico", Arial, Helvetica, sans-serif;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  line-height: 34px;
+}
+
+.year-paragraph {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+section {
+  font-family: "pacifico", Arial, Helvetica, sans-serif;
+  letter-spacing: 0.05em;
+  border: 2px solid #c34166;
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+
+.last-section {
+  margin-bottom: 28px;
+}
+
+h2,
+.year-paragraph {
+  color: #c34166;
+  text-align: center;
+}
+
+ol {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+ol li {
+  margin: 0 1.2em;
+
+  color: #c34166;
+  font-size: 20px;
+  border-radius: 7px;
+}
+
+ol li:hover {
+  background-color: #ffb3c1;
+}
+
+.active {
+  transform: scale(1.5);
+}
+
+footer {
+  color: #ffb3c1;
+  text-align: center;
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+}
+
+.button {
+  cursor: pointer;
+  margin-left: 12px;
+  width: 22px;
+  height: 22px;
+}
+
+.audio-button {
+  margin-left: 4px;
+}
+
+.button:hover,
+.button:focus {
+  width: 26px;
+  height: 26px;
+}
+
+.button:active {
+  width: 26px;
+  height: 26px;
+  border: 3px solid black;
+  border-radius: 3px;
+}
+
+.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.stop-button {
+  margin-left: 14px;
+  padding: 0 10px;
+  height: 26px;
+  color: #c34166;
+  background-color: #f4f4f4;
+  border: 2px solid #c34166;
+  border-radius: 3px;
+}
+
+.stop-container {
+  width: 100%; /* принуждава го да е на нов ред */
+  min-height: 32px;
+}
+
+.box {
+  position: fixed;
+  color: #c34166;
+  top: 2%;
+  left: 2%;
+  width: 96%;
+  background: #f4f4f4;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 15px;
+  height: 96vh; /* ограничава височината */
+  overflow-y: auto; /* добавя вертикален скрол */
+  -webkit-overflow-scrolling: touch;
+}
+
+#audio-box h3 {
+  font-size: 24px;
+}
+#audio-box h4 {
+  font-size: 20px;
+}
+
+#name,
+#info-name,
+#info-region,
+#info-movements {
+  margin-bottom: 9px;
+}
+
+#name,
+#info-name {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#audio-controls {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.box-audio-buttons {
+  padding: 2px 8px;
+  color: #c34166;
+  border: 2px solid #c34166;
+  border-radius: 3px;
+  background: #f3dddd;
+  width: 76px;
+  display: inline-block;
+  margin: 10px auto;
+  cursor: pointer;
+}
+
+.song-link {
+  color: #c34166;
+  text-decoration: none;
+}
+
+.song-link.active {
+  color: rgb(30, 125, 30);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.close-button {
+  padding: 2px 8px;
+  color: #f4f4f4;
+  border: 2px solid #c34166;
+  border-radius: 3px;
+  background: #c34166;
+  width: 76px;
+  height: 26px;
+  display: block;
+  margin: 10px auto;
+  cursor: pointer;
+}
