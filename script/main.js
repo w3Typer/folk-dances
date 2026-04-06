@@ -64,7 +64,7 @@ function createPage(data) {
 
       // --- Бутон за аудио ---
       const audioBtn = document.createElement("img");
-      audioBtn.src = "../assets/images/speaker-pink.png";
+      audioBtn.src = "assets/images/speaker-pink.png";
       audioBtn.className = "button audio-button";
       audioBtn.title = "Пусни аудио файл";
       li.appendChild(audioBtn);
@@ -112,7 +112,7 @@ function createPage(data) {
 
       // --- Бутон за видео ---
       const videoBtn = document.createElement("img");
-      videoBtn.src = "../assets/images/video-pink.png";
+      videoBtn.src = "assets/images/video-pink.png";
       videoBtn.className = "button";
       videoBtn.title = "Отвори видеото";
 
@@ -128,7 +128,7 @@ function createPage(data) {
 
       // --- Бутон за описание ---
       const infoBtn = document.createElement("img");
-      infoBtn.src = "../assets/images/text-file-pink.png";
+      infoBtn.src = "assets/images/text-file-pink.png";
       infoBtn.className = "button";
       infoBtn.title = "Покажи информация";
 
