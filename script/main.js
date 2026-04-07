@@ -101,7 +101,7 @@ function createPage(data) {
 
             // пускане на аудиото
             const file = dance.audio_files[index];
-            audio.src = "../assets/audio/" + file;
+            audio.src = "assets/audio/" + file;
             audio.play();
             audio.volume = 0.2;
           });
