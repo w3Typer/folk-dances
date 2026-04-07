@@ -26,8 +26,9 @@ function createPage(data) {
 
   const mainMessage = document.getElementById("main-message");
   mainMessage.style.whiteSpace = "pre-line";
-  mainMessage.textContent = `Чуй, виж и прочети 
-  за показаните ни през ${Object.keys(data).length}-те години
+  mainMessage.textContent = `Чуй, виж и прочети нещо
+  за показаните ни 
+  през ${Object.keys(data).length}-те години
    ${totalNumOfDances} хорá и техни варианти!`;
 
   console.log(data);
