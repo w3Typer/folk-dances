@@ -3,6 +3,9 @@ fetch("data/folklore_dances.json")
   .then((data) => createPage(data))
   .catch((err) => console.error(err));
 
+// Проверка дали приложението е отворено на някое от следните iOS устройства
+const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+
 let audio = new Audio();
 
 document.getElementById("info-box").style.display = "none";
@@ -255,6 +258,11 @@ function openInfoBox(
   }
 
   document.getElementById("info-box").style.display = "block";
+}
+
+if (isIOS) {
+  document.getElementById('volume-down-button').style.display = 'none';
+  document.getElementById('volume-up-button').style.display = 'none';
 }
 
 function closeInfoBox() {
