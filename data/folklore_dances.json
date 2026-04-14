@@ -41,8 +41,22 @@
       "hands_position_and_moves": "Хватът е за длани или за рамо. Мъжете се залавят за рамо, а жените – за длани, със спуснати до тялото ръце.",
       "shouts": "",
       "sources": "https://idance.bg/",
-      "audio_files": ["SvornatoHoro(BelovidovoHoro).mp3"],
-      "audio_names": ["Сворнато хоро (Беловидово хоро)"],
+      "audio_files": [
+        "SvornatoHoro(BelovidovoHoro).mp3",
+        "SvornatoHoro(Instrumental).mp3",
+        "SvornatoHoro(SyodnalMiEMladTerzie-RositsaPeycheva).mp3",
+        "SvornatoHoro(BelilaGinkaBeloPlatno-VievskaFolkGrupa).mp3",
+        "SvornatoHoro(RodopskiNapevi2-VievskaFolkGrupa).mp3",
+        "SvornatoHoro(GaydarskiSystavVoyvodite-Instrumental).mp3"
+      ],
+      "audio_names": [
+        "Сворнато хоро (Беловидово хоро)",
+        "Сворнато хоро - инструментал",
+        "„Сьоднал ми е млад терзие“ - Росица Пейчева",
+        "„Белила Гинка бело платно“ - Виевска фолк група",
+        "„Родопски напеви 2“ - Виевска фолк група",
+        "Гайдарски състав „Войводите“"
+      ],
       "video_url": "https://www.youtube.com/watch?v=nlQfJJ19l9k&list=RDnlQfJJ19l9k&start_radio=1"
     },
 
@@ -69,7 +83,10 @@
         "Shirto(KadeIDaOdish-Gloria).mp3",
         "Shirto(AleniZvezdi-Nelina).mp3",
         "Shirto(SharPlanina-NikolaySlaveev).mp3",
-        "Shirto(ImalaMayka-Nelina).mp3"
+        "Shirto(ImalaMayka-Nelina).mp3",
+        "Shirto(OyProviknaSeZelenZdravec-YankoNedelchev).mp3",
+        "Shirto(MakedonskiBuket_1-Kalina&Nevena).mp3",
+        "Shirto(MakedonskiBuket_2-Kalina&Nevena).mp3"
       ],
       "audio_names": [
         "Ширто",
@@ -81,7 +98,10 @@
         "„Къде и да одиш“ - Глория",
         "„Алени звезди“ - Нелина",
         "„Шар планина“ - Николай Славеев",
-        "„Имала майка“ - Нелина"
+        "„Имала майка“ - Нелина",
+        "„Ой, провикна се зелен здравец“ - Янко Неделчев",
+        "„Македонски букет 1“ - Калина и Невена",
+        "„Македонски букет 2“ - Калина и Невена"
       ],
       "video_url": "https://www.youtube.com/watch?v=U_1s4wdpY3s&list=RDU_1s4wdpY3s&start_radio=1"
     },
@@ -117,8 +137,16 @@
       "hands_position_and_moves": "Много характерно за Чичовото е люлеенето на ръцете. Движението на ръцете спомага за още по-красивия и завършен вид на хорото. На всеки такт те се люлеят напред (на „раз-и“) и назад (на „два-и“).",
       "shouts": "",
       "sources": "https://idance.bg/",
-      "audio_files": ["Chichovoto.mp3"],
-      "audio_names": ["Чичовото хоро"],
+      "audio_files": [
+        "Chichovoto.mp3",
+        "ChichovotoHoro(OrkestyrVeselie-Instrumental).mp3",
+        "ChichovotoHoro(BylgarskiFolklor-Instrumental).mp3"
+      ],
+      "audio_names": [
+        "Чичовото хоро",
+        "Оркестър „Веселие“ - инструментал",
+        "Български фолклор - инструментал"
+      ],
       "video_url": "https://www.youtube.com/watch?v=KqgnvL80Zyg"
     },
 
@@ -185,8 +213,18 @@
       "hands_position_and_moves": "Изпълнителите се залавят помежду си за длани, със свити в лактите ръце. ",
       "shouts": "",
       "sources": "https://idance.bg/",
-      "audio_files": ["ArapHoro(NevenoMome).mp3"],
-      "audio_names": ["Арап хоро - „Невено моме“"],
+      "audio_files": [
+        "ArapHoro(NevenoMome).mp3",
+        "ArapHoro(MagdenoMome-PepiHristozova).mp3",
+        "ArapHoro(OrkestyrZornica).mp3",
+        "ArapHoro(DedoMiliZlatni-Nikolina Chakyrdykova).mp3"
+      ],
+      "audio_names": [
+        "Арап хоро - „Невено моме“",
+        "„Магдено моме“- Пепи Христозова",
+        "Арап хоро - оркестър „Здравец“",
+        "„Дедо мили, златни“ - Николина Чакърдъкова"
+      ],
       "video_url": "https://www.youtube.com/watch?v=Gz92r17wM2o&list=RDGz92r17wM2o&start_radio=1"
     },
 
@@ -306,7 +344,8 @@
         "DaichovoHoro(Bilka-DikoIliev).mp3",
         "DaichovoHoro(AbreDiadoKostadine).mp3",
         "DaichovoHoro(DyshteMila-Cvetelina&TediSlavova).mp3",
-        "DaichovoHoro(RumaMoma-JinaStoeva).mp3"
+        "DaichovoHoro(RumaMoma-JinaStoeva).mp3",
+        "DaichovoHoro(EdnaSlivenskaCiganka-IvelinaKoleva).mp3"
       ],
       "audio_names": [
         "Дайчово хоро в изпълнение на Дико Илиев",
@@ -317,7 +356,8 @@
         "„Билка“ - Дико Илиев",
         "„А бре, дядо Костадине“",
         "„Дъще мила“ - Цветелина и Теди Славова",
-        "„Рума мома“ - Джина Стоева"
+        "„Рума мома“ - Джина Стоева",
+        "„Една сливенска циганка“ - Ивелина Колева"
       ],
       "video_url": "https://www.youtube.com/watch?v=hx8omyfwlcA&list=RDhx8omyfwlcA&start_radio=1"
     },
@@ -388,15 +428,15 @@
       "number": 16,
       "name": "Граовско хоро",
       "region": "Шопска фолклорна област",
-      "measure": "Равноделен (2/4).",
-      "origin": "",
-      "characteristics": "",
-      "dancers": "",
+      "measure": "Равноделен (2/4). Брои се „раз - и - два (- и)“",
+      "origin": "Хорото е хракатерно за т.нар. Граовски регион – историко-географска и етнографска област, която обхваща градовете Брезник, Перник, Радомир и прилежащите им по-малки населени места. ",
+      "characteristics": "„Шопските хорá, това са овчето кисело мляко на България. Но каймака на овчето кисело мляко – това са Граовските хорá.“ Граовското хоро е мегданско, много популярно и красиво българско народно хоро. Отличава се с умерено до бързо, дори много бързо темпо. То е едно от хората, които носят неповторим заряд и наслада, както за танцуващите, така и за наблюдаващите хорото. В изпълнение на майстори танцьори то ни кара да настръхнем и да изпитаме истинска гордост и възхищение от фолклорното ни танцово наследство. Много често Граовското се изълнява за 10 такта – 5 вдясно и 5 вляво, като цялото хоро се придвижва надясно. Почти винаги започва с характерното движение, наречено „граовка“, която най-често се изпълнява за два такта назад-вдясно по хорото. Други характерни за Граовското хоро движения са „приситване“, „спусък“, „натрисане“, „лъжи“, „зáложи“ и др. Хороигралците са приклекнали през цялото време и изпълняват движенията с характерното „натрисане“ - много интензивно трептене на раменете, предизвикано от резките и отсечени движения на краката. Хорото може да се срещне в различни варианти и фигури, но всички те имат еднаква основа, неповторим стил и оригиналност. Други типични граовски хорá са Дивотинско, Вискярско, Бучинско, Кладнишко, Витановско, Кошаревско, Садовишко, Темелково, Бера и др. ",
+      "dancers": "Играе се смесено от мъже и жени, които се залавят помежду си за пояс, най-често в полукръг.",
       "forms_and_rotation": "",
-      "body_orientation_direction_legs_moves": "",
-      "hands_position_and_moves": "",
+      "body_orientation_direction_legs_moves": "Един от най-разпространените варианти на Граовско хоро днес е следният: I такт (дясна граовка): раз - чукче или подскок на левия крак и ниска свивка с десния; и - стъпка с десния крак на място; два - прескок на левия крак (този такт се изпълнява с гръб по посока на движение на хорото - тялото е обърнато полуналяво и се движи вдясно-назад); II такт (дясна граовка): като I такт; III такт (приситване): раз - стъпка или нисък прескок на десния крак на място (тялото се обръща вдясно напред по хорото); и - стъпка или нисък прескок на левия крак напред; два - стъпка или нисък прескок на десния крак напред; IV такт (приситване): раз - стъпка или прескок на левия крак назад; и - стъпка или прескок на десния крак на място; два - стъпка или прескок на левия крак напред; V такт: раз - скок на двата крака, тялото се обръща напред към центъра на хорото; и - свивка с левия крак; два - подскок на десния крак, левия изпълнява спусък; VI такт (лява граовка): раз - подскок на десния крак и свивка с левия; и - стъпка с левия крак до десния; два - кръстосан прескок на десния крак пред левия; VII такт (лява граовка): раз - подскок на десния крак и свивка с левия; и - стъпка с левия крак до десния; два - кръстосан прескок с десния крак зад левия; VIII такт: раз - скок на двата крака; и - пауза; два - чукче с левия крак (петата се повдига и се спука на земята) и свивка с десния; IX такт (приситване): раз - стъпка или нисък прескок на десния крак на място; и - стъпка или нисък прескок на левия крак до десния; два - стъпка или нисък прескок на десния крак до левия; Х такт (приситване): раз - стъпка или нисък прескок на левия крак на място; и - стъпка или нисък прескок на десния крак до левия; два - стъпка или нисък прескок на левия крак до десния.",
+      "hands_position_and_moves": "Хватът е за пояс.",
       "shouts": "",
-      "sources": "",
+      "sources": "https://idance.bg/",
       "audio_files": [
         "GraovskoHoro(instrumental1).mp3",
         "GraovskoHoro(instrumental2).mp3"
@@ -414,18 +454,24 @@
       "number": 17,
       "name": "Боалийско хоро",
       "region": "Тракийска фолклорна област",
-      "measure": "Равноделен (2/4).",
-      "origin": "",
-      "characteristics": "",
-      "dancers": "",
-      "forms_and_rotation": "",
+      "measure": "Равноделен (2/4). Брои се „раз - два“",
+      "origin": "Боалийското хоро, или още Бохалийската, е характерно за Ямболския и Сливенския край на Тракийската фолклорна област.",
+      "characteristics": "Хорото е т.нар. „скъсано“, тоест има начало и край. Живото, бързо темпо и игривият му заряд винаги носят много настроение на играещите. То е с акценти, насочени надолу към земята на първото тактово време. Характерни движения в Боалийското хоро са хлопки, ножички, ръченични и др. Играе се в края на тракийската сватба и за разлика от повечето хорá от тази област, започва с движение наляво.Днес много популярна песен, на която се играе Боалийско хоро е „Дядовите Добреви пет снахи“ на Нелина. ",
+      "dancers": "Хорото се играе смесено от мъже и жени, заловени помежду си за длани със спуснати надолу или свити в лактите ръце. ",
+      "forms_and_rotation": "Боалийското хоро се среща в различни варианти. ",
       "body_orientation_direction_legs_moves": "",
-      "hands_position_and_moves": "",
+      "hands_position_and_moves": "Ръцете също могат да взимат участие в хорото, като пружинират или се люлеят напред и назад. ",
       "shouts": "",
-      "sources": "",
+      "sources": "https://idance.bg/",
       "year": 2026,
-      "audio_files": ["BoalijskoHoro(DiadoviteDobreviPetSnahi-Nelina).mp3"],
-      "audio_names": ["„Дядовите Добреви пет снахи“ - Нелина"],
+      "audio_files": [
+        "BoalijskoHoro(DiadoviteDobreviPetSnahi-Nelina).mp3",
+        "BoalijskoHoro(ZaigraSeHoroGolyamo-VokalnoStudioMedeniGlascheta).mp3"
+      ],
+      "audio_names": [
+        "„Дядовите Добреви пет снахи“ - Нелина",
+        "„Заигра се хоро голямо“ - Вокално студио „Медени гласчета“"
+      ],
       "video_url": "https://www.youtube.com/watch?v=yEWs_Ypd6n0&list=RDyEWs_Ypd6n0&start_radio=1"
     },
 
@@ -468,8 +514,14 @@
       "hands_position_and_moves": "",
       "shouts": "",
       "sources": "",
-      "audio_files": ["ShiraHoro(instrumental).mp3"],
-      "audio_names": ["Шúра хоро - инструментал"],
+      "audio_files": [
+        "ShiraHoro(instrumental).mp3",
+        "ShiraHoro(Instrumental2).mp3"
+      ],
+      "audio_names": [
+        "Шúра хоро - инструментал 1",
+        "Шúра хоро - инструментал 2"
+      ],
       "video_url": "https://www.youtube.com/watch?v=9jRXJBrSqLc&list=RD9jRXJBrSqLc&start_radio=1"
     },
 
@@ -486,8 +538,22 @@
       "hands_position_and_moves": "",
       "shouts": "",
       "sources": "",
-      "audio_files": ["KarakachanskoHoro.mp3"],
-      "audio_names": ["Каракачанско хоро"],
+      "audio_files": [
+        "KarakachanskoHoro.mp3",
+        "KarakachanskoHoro2(Instrumental).mp3",
+        "KarakachanskoHoro(GospodarYovane-PoliPaskova).mp3",
+        "KarakachanskoHoro(TraychoSinapov).mp3",
+        "KarakachanskoHoro(GaidaKyuchek).mp3",
+        "KarakachanskoHoro(MoreLichnoMome-Kalina&Nevena&N.Slaveev).mp3"
+      ],
+      "audio_names": [
+        "Каракачанско хоро",
+        "Каракачанско хоро 2 - инструментал",
+        "„Господар Йоване“ - Поли Паскова",
+        "Трайчо Синапов - инструментал",
+        "„Гайда кючек“",
+        "„Море лично моме - Калина, Невена и Н. Славеев“"
+      ],
       "video_url": "https://www.youtube.com/watch?v=o8erPVOmIVA"
     },
 
@@ -548,8 +614,22 @@
       "hands_position_and_moves": "",
       "shouts": "",
       "sources": "",
-      "audio_files": ["SvornatoHoro(BelovidovoHoro).mp3"],
-      "audio_names": ["Сворнато хоро (Беловидово хоро)"],
+      "audio_files": [
+        "SvornatoHoro(BelovidovoHoro).mp3",
+        "SvornatoHoro(Instrumental).mp3",
+        "SvornatoHoro(SyodnalMiEMladTerzie-RositsaPeycheva).mp3",
+        "SvornatoHoro(BelilaGinkaBeloPlatno-VievskaFolkGrupa).mp3",
+        "SvornatoHoro(RodopskiNapevi2-VievskaFolkGrupa).mp3",
+        "SvornatoHoro(GaydarskiSystavVoyvodite-Instrumental).mp3"
+      ],
+      "audio_names": [
+        "Сворнато хоро (Беловидово хоро)",
+        "Сворнато хоро - инструментал",
+        "„Сьоднал ми е млад терзие“ - Росица Пейчева",
+        "„Белила Гинка бело платно“ - Виевска фолк група",
+        "„Родопски напеви 2“ - Виевска фолк група",
+        "Гайдарски състав „Войводите“"
+      ],
       "video_url": "https://www.youtube.com/watch?v=nlQfJJ19l9k&list=RDnlQfJJ19l9k&start_radio=1"
     },
 
@@ -645,9 +725,13 @@
       "shouts": "",
       "sources": "",
       "audio_files": [
-        "GaidaAvasi(Instrumental-AkademichenNarodenOrkestyr).mp3"
+        "GaidaAvasi(Instrumental-AkademichenNarodenOrkestyr).mp3",
+        "GaidaAvasi(ShikerBego-GeorgiGotsev&IvanGotsev).mp3"
       ],
-      "audio_names": ["Гайда авасú - Академичен народен оркестър"],
+      "audio_names": [
+        "Гайда авасú - Академичен народен оркестър",
+        "Шикер Бего - Георги Гоцев и Иван Гоцев"
+      ],
       "video_url": "https://youtu.be/lghEGNzrxEk?si=JsTCLAx2q8zH6PM0"
     }
   ]
