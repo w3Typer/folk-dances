@@ -31,6 +31,7 @@ header {
   text-align: center;
   background-color: #c34166;
   border-radius: 10px;
+  text-shadow: 3px 3px 3px #832b44;
 }
 
 span.header {
@@ -53,6 +54,7 @@ main {
 #main-message {
   font-family: "pacifico", Arial, Helvetica, sans-serif;
   letter-spacing: 0.05em;
+  text-shadow: 1px 1px 1px #832b44;
 }
 
 h2 {
@@ -62,6 +64,7 @@ h2 {
 .year-paragraph {
   font-size: 24px;
   font-weight: bold;
+  text-shadow: 1px 1px 1px #832b44;
 }
 
 section {
@@ -134,6 +137,7 @@ footer {
   height: 26px;
   border: 3px solid black;
   border-radius: 3px;
+  /* Потъване */
 }
 
 .disabled {
@@ -189,6 +193,7 @@ footer {
 #info-name {
   text-align: center;
   text-decoration: underline;
+  text-shadow: 1px 1px 1px #832b44;
 }
 
 #audio-controls {
@@ -206,6 +211,16 @@ footer {
   display: inline-block;
   margin: 10px auto;
   cursor: pointer;
+  /* Изпъкнал ефект */
+  box-shadow: 2px 2px 3px #832b44;
+  /* Скорост и вид на промяна на всички ефекти: бавно -> по-бързо -> пак бавно */
+  transition: all 0.1s ease;
+}
+
+.box-audio-buttons:focus,
+.box-audio-buttons:active {
+  box-shadow: 1px 1px 2px #832b44;
+  transform: translateY(1px);
 }
 
 .song-link {
@@ -230,4 +245,16 @@ footer {
   display: block;
   margin: 10px auto;
   cursor: pointer;
+  /* Изпъкнал ефект */
+  box-shadow: 2px 2px 3px #832b44;
+  transition: all 0.1s ease;
+}
+
+.close-button:hover {
+  font-weight: bold;
+}
+
+.close-button:active {
+  box-shadow: 1px 1px 2px #832b44;
+  transform: translateY(1px);
 }
