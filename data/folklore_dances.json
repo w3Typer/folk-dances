@@ -17,13 +17,15 @@
         "PravoHoro(IlkaAleksandrova).mp3",
         "PravoHoro(Petyr-RumianaDumashe-ToniDacheva).mp3",
         "PravoHoro(Stano_Stano-Emilia).mp3",
-        "PravoHoro(KakoNikolinke-Nelina).mp3"
+        "PravoHoro(KakoNikolinke-Nelina).mp3",
+        "PravoHoro(RokerskoHoro-Slave).mp3"
       ],
       "audio_names": [
         "Право хоро в изпълнение на Илка Александрова",
         "„Петър Румяна думаше“ - Тони Дачева",
         "„Стано Стано“ - Емилия",
-        "„Како Николинке“ - Нелина"
+        "„Како Николинке“ - Нелина",
+        "„Рокерско хоро“ - Slave"
       ],
       "video_url": "https://www.youtube.com/watch?v=Wpncg8mHNCU"
     },
@@ -165,11 +167,13 @@
       "sources": "https://idance.bg/",
       "audio_files": [
         "DunavskoHoro(instrumental).mp3",
-        "DunavskoHoro(Tsvetelina).mp3"
+        "DunavskoHoro(Tsvetelina).mp3",
+        "DunavskoHoro(RockCover-Slave).mp3"
       ],
       "audio_names": [
         "Дунавско хоро - инструментал",
-        "Дунавско хоро в изпълнение на Цветелина"
+        "Дунавско хоро в изпълнение на Цветелина",
+        "Рок вариант на Дунавско хоро - Slave"
       ],
       "video_url": "https://www.youtube.com/watch?v=52EryGrhrhc"
     },
@@ -190,12 +194,14 @@
       "audio_files": [
         "SamokovskoHoro.mp3",
         "SamokovskoHoro(CvetiniteOchi-NikolinaChakyrdykova).mp3",
-        "SamokovskoHoro(MominaSylza-SlavkaKalcheva).mp3"
+        "SamokovskoHoro(MominaSylza-SlavkaKalcheva).mp3",
+        "SamokovskoHoro(BreVodenichariu-Nelina).mp3"
       ],
       "audio_names": [
         "Самоковско хоро",
         "„Цветините очи“ - Николина Чакърдъкова",
-        "„Момина сълза“ - Славка Калчева"
+        "„Момина сълза“ - Славка Калчева",
+        "„Бре воденичарю“ - Нелина"
       ],
       "video_url": "https://www.youtube.com/watch?v=Ad8USSjuCiA&list=RDAd8USSjuCiA&start_radio=1"
     },
@@ -441,11 +447,13 @@
       "sources": "https://idance.bg/",
       "audio_files": [
         "GraovskoHoro(instrumental1).mp3",
-        "GraovskoHoro(instrumental2).mp3"
+        "GraovskoHoro(instrumental2).mp3",
+        "GraovskoHoro(Thunderstruck-AC_DC).mp3"
       ],
       "audio_names": [
         "Граовско хоро - инструментал 1",
-        "Граовско хоро - инструментал 2"
+        "Граовско хоро - инструментал 2",
+        "„Thunderstruck“ - AC/DC"
       ],
       "video_url": "https://www.youtube.com/watch?v=_JaJR2qVoX4"
     }
