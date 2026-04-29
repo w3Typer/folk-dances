@@ -313,11 +313,13 @@
       "sources": "https://www.scribd.com/",
       "audio_files": [
         "PravoTrakijskoHoro(Instrumental).mp3",
-        "PravoTrakijskoHoro(Haide-Kalino-da-idem_R.PEYCHEVA&N.SLAVEEV).mp3"
+        "PravoTrakijskoHoro(Haide-Kalino-da-idem_R.PEYCHEVA&N.SLAVEEV).mp3",
+        "PravoTrakijskoHoro(AzNeIskamMilaMamoMa-VievskaFolkGrupa).mp3"
       ],
       "audio_names": [
         "Право тракийско хоро - инструментал",
-        "„Хайде Калино да идем“ - Росица Пейчева и Николай Славеев"
+        "„Хайде Калино да идем“ - Росица Пейчева и Николай Славеев",
+        "„Аз не искам мила мамо ма“ - Виевска фолк група"
       ],
       "video_url": "https://www.youtube.com/watch?v=tBGS2UuNPho"
     },
