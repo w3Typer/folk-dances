@@ -14,17 +14,25 @@
       "shouts": "",
       "sources": "https://taratanci.com/",
       "audio_files": [
+        "PravoHoro(Instrumental).mp3",
+        "PravoHoro(OrkestyrKanarite).mp3",
+        "PravoHoro(KaraKolio-OrkestyrKanarite).mp3",
         "PravoHoro(IlkaAleksandrova).mp3",
         "PravoHoro(Petyr-RumianaDumashe-ToniDacheva).mp3",
         "PravoHoro(Stano_Stano-Emilia).mp3",
         "PravoHoro(KakoNikolinke-Nelina).mp3",
+        "PravoHoro(MiloMiEMamo-Nelina).mp3",
         "PravoHoro(RokerskoHoro-Slave).mp3"
       ],
       "audio_names": [
+        "Право хоро - инструментал",
+        "„Оркестър „Канарите“ - инструментал",
+        "„Кара Кольо“ - Оркестър „Канарите“",
         "Право хоро в изпълнение на Илка Александрова",
         "„Петър Румяна думаше“ - Тони Дачева",
         "„Стано Стано“ - Емилия",
         "„Како Николинке“ - Нелина",
+        "„Мило ми е, мамо“ - Нелина",
         "„Рокерско хоро“ - Slave"
       ],
       "video_url": "https://www.youtube.com/watch?v=Wpncg8mHNCU"
@@ -195,13 +203,17 @@
         "SamokovskoHoro.mp3",
         "SamokovskoHoro(CvetiniteOchi-NikolinaChakyrdykova).mp3",
         "SamokovskoHoro(MominaSylza-SlavkaKalcheva).mp3",
-        "SamokovskoHoro(BreVodenichariu-Nelina).mp3"
+        "SamokovskoHoro(BreVodenichariu-Nelina).mp3",
+        "SamokovskoHoro(BralaMomaKapini-Nelina).mp3",
+        "SamokovskoHoro(NaSyrceMiLeji-Nelina).mp3"
       ],
       "audio_names": [
         "Самоковско хоро",
         "„Цветините очи“ - Николина Чакърдъкова",
         "„Момина сълза“ - Славка Калчева",
-        "„Бре воденичарю“ - Нелина"
+        "„Бре воденичарю“ - Нелина",
+        "„Брала мома къпини“ - Нелина",
+        "„На сърце ми лежи“ - Нелина"
       ],
       "video_url": "https://www.youtube.com/watch?v=Ad8USSjuCiA&list=RDAd8USSjuCiA&start_radio=1"
     },
@@ -320,12 +332,22 @@
       "audio_files": [
         "PravoTrakijskoHoro(Instrumental).mp3",
         "PravoTrakijskoHoro(Haide-Kalino-da-idem_R.PEYCHEVA&N.SLAVEEV).mp3",
-        "PravoTrakijskoHoro(AzNeIskamMilaMamoMa-VievskaFolkGrupa).mp3"
+        "PravoTrakijskoHoro(AzNeIskamMilaMamoMa-VievskaFolkGrupa).mp3",
+        "PravoTrakijskoHoro(ZaspalGochoPodSalkym-RosicaDeleva&JulietaSvetlanova).mp3",
+        "PravoTrakijskoHoro(PolegnalaEGergana-SlavkaKalcheva).mp3",
+        "PravoTrakijskoHoro(SednalaEHubavaNeda-SlavkaKalcheva).mp3",
+        "PravoTrakijskoHoro(GerganaPileShareno-Galena).mp3",
+        "PravoTrakijskoHoro(NevenoMome-Preslava).mp3"
       ],
       "audio_names": [
         "Право тракийско хоро - инструментал",
         "„Хайде Калино да идем“ - Росица Пейчева и Николай Славеев",
-        "„Аз не искам мила мамо ма“ - Виевска фолк група"
+        "„Аз не искам мила мамо ма“ - Виевска фолк група",
+        "„Заспал Гочо под салкъм“ - Росица Делева и Жулиета Светланова",
+        "„Полегнала е Гергана“ - Славка Калчева",
+        "„Седнала е хубава Неда“ - Славка Калчева",
+        "„Гергана пиле шарено“ - Галена",
+        "„Невено моме“ - Преслава"
       ],
       "video_url": "https://www.youtube.com/watch?v=tBGS2UuNPho"
     },
