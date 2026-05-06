@@ -258,6 +258,7 @@
       "shouts": "",
       "sources": "https://bg.wikipedia.org/",
       "audio_files": [
+        "Sirtaki(OlaGiaMenaIseEsi-NikosKurkulis).mp3",
         "Sirtaki(Barbayani).mp3",
         "Sirtaki(NaHareis-NotisSfakianakis).mp3",
         "Sirtaki(StroseToStromaSou-MikisTheodorakis).mp3",
@@ -273,6 +274,7 @@
         "Sirtaki(AnEisaiEnaAsteri-NikosVertis).mp3"
       ],
       "audio_names": [
+        "„Όλα για μένα είσαι εσύ“ - Νίκος Κουρκούλης",
         "„Μπάρμπα Γιάννης“",
         "„Να Χαρείς“ - Νότης Σφακιανάκης",
         "„Στρώσε το στρώμα σου“ - Μίκης Θεοδωράκης",
@@ -575,16 +577,18 @@
         "KarakachanskoHoro2(Instrumental).mp3",
         "KarakachanskoHoro(GospodarYovane-PoliPaskova).mp3",
         "KarakachanskoHoro(TraychoSinapov).mp3",
+        "KarakachanskoHoro(MoreLichnoMome-Kalina&Nevena&N.Slaveev).mp3",
         "KarakachanskoHoro(GaidaKyuchek).mp3",
-        "KarakachanskoHoro(MoreLichnoMome-Kalina&Nevena&N.Slaveev).mp3"
+        "KarakachanskoHoro(KiuchekytNaMechkata).mp3"
       ],
       "audio_names": [
         "Каракачанско хоро",
         "Каракачанско хоро 2 - инструментал",
         "„Господар Йоване“ - Поли Паскова",
         "Трайчо Синапов - инструментал",
+        "„Море лично моме - Калина, Невена и Н. Славеев“",
         "„Гайда кючек“",
-        "„Море лично моме - Калина, Невена и Н. Славеев“"
+        "Кючекът на мечката“"
       ],
       "video_url": "https://www.youtube.com/watch?v=o8erPVOmIVA"
     },
@@ -825,6 +829,24 @@
         "Трите пъти - инструментал - Оркестър „Зорница“"
       ],
       "video_url": "https://www.youtube.com/watch?v=4vz3Dyv2kmQ&list=RD4vz3Dyv2kmQ&start_radio=1"
+    },
+
+    {
+      "number": 31,
+      "name": "Пуйче хоро",
+      "region": "",
+      "measure": "",
+      "origin": "",
+      "characteristics": "",
+      "dancers": "",
+      "forms_and_rotation": "Играе се по различен начин в различни региони на страната.",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["PuycheHoro(Puychenca-Nelina).mp3"],
+      "audio_names": ["„Пуйченца“ - Нелина"],
+      "video_url": ""
     }
   ]
 }
