@@ -871,6 +871,24 @@
         "Оркестър „Варненци“ - инструментал"
       ],
       "video_url": "https://www.youtube.com/watch?v=2o4OGJ1iqyU&list=RD2o4OGJ1iqyU&start_radio=1"
+    },
+
+    {
+      "number": 33,
+      "name": "Хоро „Сватба“",
+      "region": "",
+      "measure": "Обикновено се играе в размер 2/4 или неравноделен тактов размер 9/8 или 9/16 (с броене 2+2+2+3, където последната част е удължена).",
+      "origin": "",
+      "characteristics": "Хорото се танцува на песента на Николина Чакърдъкова „Сватба е“. Често срещано е като „Сватба е“. То не е с автентичен произход. Има различни хореографски разработки.",
+      "dancers": "",
+      "forms_and_rotation": "",
+      "body_orientation_direction_legs_moves": "",
+      "hands_position_and_moves": "",
+      "shouts": "",
+      "sources": "",
+      "audio_files": ["Svatba(SvatbaE-NikolinaChakyrdykova).mp3"],
+      "audio_names": ["„Сватба е“ - Николина Чакърдъкова"],
+      "video_url": "https://www.youtube.com/watch?v=U3N_WQqsv3Y"
     }
   ]
 }
